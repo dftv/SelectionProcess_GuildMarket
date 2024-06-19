@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Processo seletivo</string>
+
+    <string name="products">Produtos</string>
+    <string name="empty_products">Não há produtos para listar!</string>
+
+    <string name="edit">Editar</string>
+    <string name="erase">Apagar</string>
+    <string name="add">Adicionar</string>
+    <string name="sync">Sincronizar</string>
+
+    <string name="product_id">Id:</string>
+    <string name="product_title">Nome:</string>
+    <string name="product_description">Descrição:</string>
+    <string name="product_price">Preço:</string>
+    <string name="product_price_sample">%.2f</string>
+
+    <string name="add_product">Adicionar produto</string>
+    <string name="edit_product">Editar produto</string>
+
+    <string name="hint_product_title">Digite o nome…</string>
+    <string name="hint_product_description">Digite a descrição…</string>
+    <string name="hint_product_price">Digite o preço…</string>
+
+    <string name="error_product_title">O nome é obrigatório!</string>
+    <string name="error_product_description">A descrição é obrigatória!</string>
+    <string name="error_product_price">O preço é obrigatório!</string>
+    <string name="error_product_price_invalid">O preço é inválido!</string>
+    <string name="error_product_add">Erro ao adicionar o produto!</string>
+    <string name="error_product_edit">Erro ao editar o produto!</string>
+
+    <string name="success_product_add">Produto adicionado com sucesso!</string>
+    <string name="success_product_edit">Produto editado com sucesso!</string>
+</resources>
